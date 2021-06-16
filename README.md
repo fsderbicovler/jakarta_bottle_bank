@@ -2,9 +2,9 @@
 
 A new Flutter project.
 
-## Getting Started
+## Jakarta Bottle Bank
 
-This project is a starting point for a Flutter application.
+This Project has commited in Universiti Teknologi Malaysia as Final Year Project for recycling activities to easy people get side-credits and help environment on recycling process
 
 A few resources to get you started if this is your first Flutter project:
 
